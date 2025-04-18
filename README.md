@@ -6,6 +6,8 @@ This Python tool allows you to log into your Razer Gold account and validate Raz
 
 The tool is fully automated and designed to work with proxyless requests.
 
+Currently, this version is tailored for **Turkish Lira (₺)**. However, it can be easily modified to support other currencies.
+
 ---
 
 ### ⚙️ Features
